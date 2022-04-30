@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhongchun.github.io/2018/10/16/5-mongodb-shell/</loc>
+    
+    <lastmod>2022-04-30T05:38:47.604Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zhongchun.github.io/tags/index.html</loc>
     
     <lastmod>2022-04-30T05:12:25.281Z</lastmod>
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/10/15/4-mongodb-basic/</loc>
-    
-    <lastmod>2022-04-30T05:12:25.276Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zhongchun.github.io/2019/01/31/40-java-protobuf/</loc>
     
     <lastmod>2022-04-30T05:12:25.276Z</lastmod>
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/10/16/5-mongodb-shell/</loc>
+    <loc>https://zhongchun.github.io/2018/10/15/4-mongodb-basic/</loc>
     
     <lastmod>2022-04-30T05:12:25.276Z</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/11/25/35-outline-hands-on-machine-leanring-notes/</loc>
+    <loc>https://zhongchun.github.io/2018/11/24/34-a-small-project/</loc>
     
     <lastmod>2022-04-30T05:12:25.274Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/11/24/34-a-small-project/</loc>
+    <loc>https://zhongchun.github.io/2018/11/25/35-outline-hands-on-machine-leanring-notes/</loc>
     
     <lastmod>2022-04-30T05:12:25.274Z</lastmod>
     
@@ -177,13 +177,6 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/11/11/29-dl-backward-propagation-algorithm-notes/</loc>
-    
-    <lastmod>2022-04-30T05:12:25.271Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zhongchun.github.io/2018/11/09/28-dl-neural-networks-learning-notes/</loc>
     
     <lastmod>2022-04-30T05:12:25.271Z</lastmod>
@@ -191,9 +184,9 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/11/04/25-dl-python-basics-notes/</loc>
+    <loc>https://zhongchun.github.io/2018/11/11/29-dl-backward-propagation-algorithm-notes/</loc>
     
-    <lastmod>2022-04-30T05:12:25.270Z</lastmod>
+    <lastmod>2022-04-30T05:12:25.271Z</lastmod>
     
   </url>
   
@@ -206,6 +199,13 @@
   
   <url>
     <loc>https://zhongchun.github.io/2018/11/05/26-dl-perceptron-notes/</loc>
+    
+    <lastmod>2022-04-30T05:12:25.270Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zhongchun.github.io/2018/11/04/25-dl-python-basics-notes/</loc>
     
     <lastmod>2022-04-30T05:12:25.270Z</lastmod>
     
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/11/01/19-linux-c-development/</loc>
+    <loc>https://zhongchun.github.io/2018/10/29/18-java-gc/</loc>
     
     <lastmod>2022-04-30T05:12:25.266Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/10/29/18-java-gc/</loc>
+    <loc>https://zhongchun.github.io/2018/11/01/19-linux-c-development/</loc>
     
     <lastmod>2022-04-30T05:12:25.266Z</lastmod>
     
@@ -331,14 +331,14 @@
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/10/22/11-java-collections/</loc>
+    <loc>https://zhongchun.github.io/2018/10/23/12-java-reflect/</loc>
     
     <lastmod>2022-04-30T05:12:25.264Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zhongchun.github.io/2018/10/23/12-java-reflect/</loc>
+    <loc>https://zhongchun.github.io/2018/10/22/11-java-collections/</loc>
     
     <lastmod>2022-04-30T05:12:25.264Z</lastmod>
     
